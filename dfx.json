@@ -1,7 +1,7 @@
 {
   "canisters": {
-    "benchmark": {
-      "main": "src/perf/qr.mo",
+    "test": {
+      "main": "src/test.mo",
       "type": "motoko"
     }
   },
