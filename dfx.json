@@ -1,0 +1,15 @@
+{
+  "canisters": {
+    "benchmark": {
+      "main": "src/perf/qr.mo",
+      "type": "motoko"
+    }
+  },
+  "networks": {
+    "local": {
+      "bind": "127.0.0.1:8123",
+      "type": "ephemeral"
+    }
+  },
+  "version": 1
+}
